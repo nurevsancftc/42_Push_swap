@@ -35,6 +35,7 @@ rrb (reverse rotate b): B stack'indeki tüm elemanları bir aşağı kaydırır.
 
 rrr: rra ve rrb işlemlerini aynı anda yapar.
 
+ 
  Bu aksiyonları doğru stratejiyle kullanarak elemanları en hızlı şekilde sıralamak hedeflenmektedir.
 
  Bu projede sadece verileri sıralamak yeterli değildir. Amacımız bu sıralamayı en az sayıda adımda başarabilmektir. Belirlenen performans kriterleri şunlardır:
