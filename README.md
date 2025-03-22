@@ -1,3 +1,4 @@
+                    PUSH_SWAP
 42 Yazılım Okulu'nda geliştirdiğim bir algoritma projesi olan Push Swap, belirli kurallar ve sınırlamalar dâhilinde bir stack yapısında tutulan sayıları, ikinci bir stack kullanarak en verimli şekilde sıralamaya odaklanmaktadır. Projenin temel amacı, A stack'inde başlangıçta bulunan tüm sayıları, B stack'ini de kullanarak minimum işlemle düzgün bir sıralama elde etmektir.
 
 Bu projede ben Türk algoritmasını tercih ettim ve kodumu linked list yapısıyla oluşturdum. Linked list yapısını tercih etmemin en büyük nedeni, eleman ekleme ve çıkarma gibi işlemlerin bu yapıda oldukça esnek ve verimli bir şekilde gerçekleştirilebilmesidir. Aynı zamanda linked list, veri yapısı üzerinde hızlı hareket etmeyi ve elemanların yerlerini optimize etmeyi kolaylaştıran bir yapıdır.
